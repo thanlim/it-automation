@@ -1,0 +1,16 @@
+{
+    "employees": [
+        {
+            "name": "than lim",
+            "role": "Engineer",
+            "password_hash": "686721e0c2d81bf787b91df8fc7b89b79b99e9628e32049b5db31cff20f30311",
+            "status": "disabled"
+        },
+        {
+            "name": "than lim",
+            "role": "Engineer",
+            "password_hash": "c2ea20733157000960f09ebeae1ec11c9fc045741001da96c014696b6afde4d6",
+            "status": "disabled"
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+it-automation/
+│
+├── main.py
+├── users.json
+├── roles.json
+├── audit.log
+├── onboarding.py
+├── offboarding.py
+├── security.py
+└── README.md
+

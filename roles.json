@@ -1,0 +1,12 @@
+{
+  "Engineer": {
+    "permissions": ["repo_access", "cloud_read", "vpn_access"]
+  },
+  "IT_Admin": {
+    "permissions": ["repo_access", "cloud_admin", "vpn_access", "user_management"]
+  },
+  "HR": {
+    "permissions": ["payroll_system", "employee_records"]
+  }
+}
+
